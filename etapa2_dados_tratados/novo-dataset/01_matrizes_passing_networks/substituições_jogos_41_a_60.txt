@@ -1,0 +1,311 @@
+Substituições JOGO 41 A 60
+
+França x Iraque
+
+França
+"2 Malo GUSTO": "5 Jules KOUNDE",
+"20 Desire DOUE": "7 Ousmane DEMBELE",
+"9 Marcus THURAM": "10 Kylian MBAPPE",
+"24 Rayan CHERKI": "11 Michael OLISE",
+"25 Maghnes AKLIOUCHE": "12 Bradley BARCOLA",
+
+Iraque
+"2 REBIN SULAKA": "4 ZAID TAHSEEN",
+"21 MARKO FARJI": "8 IBRAHIM BAYESH",
+"20 AIMAR SHER": "16 AMIR ALAMMARI",
+"7 YOUSSEF AMYN": "24 ZAID ISMAEL",
+"9 ALI ALHAMADI": "18 AYMEN HUSSEIN",
+
+Noruega x Senegal
+
+Noruega
+"4 Leo OSTIGARD": "17 Torbjorn HEGGEM",
+"6 Patrick BERG": "14 Fredrik AURSNES",
+"22 Oscar BOBB": "7 Alexander SORLOTH",
+"21 Andreas SCHJELDERUP": "20 Antonio NUSA",
+"16 Marcus HOLMGREN PEDERSEN": "26 Julian RYERSON",
+
+Senegal
+"23 Mory DIAW": "16 Edouard MENDY",
+"17 Pape Matar SARR": "3 Kalidou KOULIBALY",
+"14 Ismail JAKOBS": "25 El Hadji Malick DIOUF",
+"6 Pathe CISS": "8 Lamine CAMARA",
+"20 Ibrahim MBAYE": "26 Pape GUEYE",
+
+Argentina x Áustria
+
+Argentina
+"19 Nicolas OTAMENDI": "13 Cristian ROMERO",
+"3 Nicolas TAGLIAFICO": "25 Facundo MEDINA",
+"5 Leandro PAREDES": "7 Rodrigo DE PAUL",
+"9 Julian ALVAREZ": "16 Thiago ALMADA",
+"15 Nico GONZALEZ": "22 Lautaro MARTINEZ",
+
+Áustria
+"22 Alexander PRASS": "5 Stefan POSCH",
+"23 Marco FRIEDL": "8 David ALABA",
+"21 Patrick WIMMER": "18 Romano SCHMID",
+"7 Marko ARNAUTOVIC": "24 Paul WANNER",
+"17 Carney CHUKWUEMEKA": "11 Michael Gregoritsch",
+
+Jordânia x Argélia
+
+Jordânia
+"17 SALEEM OBAID": "4 HUSAM ABUDAHAB",
+"2 MOHAMMAD ABUHASHEESH": "20 MOHANNAD ABUTAHA",
+"7 MOHAMMAD ABUZRAIQ": "9 ALI OLWAN",
+"24 ALI AZAIZEH": "10 MOUSA ALTAMARI",
+"11 ODEH FAKHOURY": "13 MAHMOUD ALMARDI",
+
+Argélia
+"13 Jaouen HADJAM": "15 Rayan AIT-NOURI",
+"19 Nabil Bentaleb": "6 Ramiz ZERROUKI",
+"12 Nadhir BENBOUALI": "14 Hicham BOUDAOUI",
+"11 Anis HADJ MOUSSA": "7 Riyad Mahrez",
+"5 Zineddine BELAID": "9 Amine GOUIRI",
+
+Portugal x Uzbequistão
+
+Portugal
+"2 NELSON SEMEDO": "20 JOAO CANCELO",
+"10 BERNARDO SILVA": "15 JOAO NEVES",
+"17 RAFAEL LEAO": "23 VITINHA",
+"16 FRANCISCO TRINCAO": "11 JOAO FELIX",
+"26 FRANCISCO CONCEICAO": "18 PEDRO NETO",
+
+Uzbequistão
+"3 Khojiakbar ALIJONOV": "13 Sherzod NASRULLAEV",
+"10 Ruslanbek JIYANOV": "24 Behruzjon KARIMOV",
+"23 Sherzod ESANOV": "7 Otabek Shukurov",
+"6 Akmal MOZGOVOY": "9 Odiljon XAMROBEKOV",
+"21 Igor Sergeev": "22 Abbosbek FAYZULLAEV",
+
+Colômbia x RD do Congo
+
+Colômbia
+"20 Juan QUINTERO": "10 James RODRIGUEZ",
+"6 Richard RIOS": "11 Jhon ARIAS",
+"9 Jhon CORDOBA": "25 Luis SUAREZ",
+
+RD do Congo
+"12 Joris KAYEMBE": "26 Arthur MASUAKU",
+"14 Noah SADIKI": "6 Ngalayel MUKAU",
+"7 Nathanael MBUKU": "8 Samuel Moutoussamy",
+"18 Charles PICKEL": "25 Edo Kayembe",
+"23 Simon BANZA": "17 Cedric BAKAMBU",
+
+Inglaterra x Gana
+
+Inglaterra
+"3 Nico OREILLY": "25 Djed SPENCE",
+"21 Eberechi EZE": "8 Elliot ANDERSON",
+"17 Morgan ROGERS": "10 Jude BELLINGHAM",
+"7 Bukayo SAKA": "18 Anthony GORDON",
+"11 Marcus RASHFORD": "20 Noni MADUEKE",
+
+Gana
+"21 Kojo Peprah OPPONG": "26 Marvin SENAYA",
+"25 Prince ADU": "9 Jordan AYEW",
+"7 Abdul FATAWU": "19 Inaki WILLIAMS",
+
+Panamá x Croácia
+
+Panamá
+"15 Eric DAVIS": "2 Cesar BLACKMAN",
+"18 Cecilio Waterman": "13 Jiovany RAMOS",
+"9 Tomas RODRIGUEZ": "11 Edgar Yoel BARCENAS",
+"24 Azarias LONDONO": "17 Jose FAJARDO",
+
+Croácia
+"9 Andrej KRAMARIC": "4 Josko GVARDIOL",
+"17 Petar SUCIC": "8 Mateo KOVACIC",
+"15 Mario PASALIC": "10 Luka MODRIC",
+"21 Luka SUCIC": "24 Marco PASALIC",
+"11 Ante BUDIMIR": "26 Petar Musa",
+
+África do Sul x República da Coreia
+
+África do Sul
+"8 Tshepang MOREMI": "7 Oswin APPOLLIS",
+"23 Jayden ADAMS": "10 Relebohile MOFOKENG",
+"15 Iqraam RAYNERS": "12 Thapelo MASEKO",
+
+República da Coreia
+"16 PARK Jinseob": "4 KIM Minjae",
+"23 CASTROP Jens": "13 LEE Taeseok",
+"24 KIM Jingyu": "8 PAIK Seungho",
+"7 SON Heungmin": "11 HWANG Heechan",
+"9 CHO Guesung": "18 OH Hyeongyu",
+
+Tchéquia x México
+
+Tchéquia
+"22 Tomas SOUCEK": "3 Tomas HOLES",
+"19 Tomas CHORY": "12 Lukas CERV",
+"10 Patrik Schick": "9 Adam HLOZEK",
+"17 Lukas PROVOD": "26 Denis VISINSKY",
+
+México
+"13 Guillermo OCHOA": "1 Raul RANGEL",
+"23 Jesus GALLARDO": "20 Mateo CHAVEZ",
+"18 Obed VARGAS": "7 Luis ROMO",
+"8 Alvaro FIDALGO": "19 Gilberto MORA",
+"11 Santiago GIMENEZ": "22 Guillermo MARTINEZ",
+
+Bósnia e Herzegovina x Catar
+
+Bósnia e Herzegovina
+"3 Dennis HADZIKADUNIC": "18 Nikola KATIC",
+"15 Amar MEMIC": "24 Arjan MALIC",
+"6 Benjamin TAHIROVIC": "14 Ivan SUNJIC",
+"26 Ermin MAHMIC": "11 Edin DZEKO",
+"17 Dzenis BURNIC": "19 Kerim ALAJBEGOVIC",
+
+Catar
+"6 ABDULAZIZ HATEM": "5 JASSEM GABER",
+"19 ALMOEZ ALI": "12 KARIM BOUDIAF",
+"26 MOHAMED MANAI": "20 AHMED FATHY",
+"7 AHMED ALAAELDIN": "8 EDMILSON JUNIOR",
+"17 AHMED ALGANEHI": "10 HASSAN ALHAYDOS",
+
+Suíça x Canadá
+
+Suíça
+"3 Silvan WIDMER": "25 Luca JAQUEZ",
+"16 Christian FASSNACHT": "9 Johan MANZAMBI",
+"20 Michel AEBISCHER": "15 Djibril SOW",
+"26 Cedric ITTEN": "7 Breel EMBOLO",
+"11 Dan NDOYE": "17 Ruben VARGAS",
+
+Canadá
+"14 Jacob SHAFFELBURG": "22 Richie LARYEA",
+"7 Stephen EUSTAQUIO": "6 Mathieu CHOINIERE",
+"12 Tani OLUWASEYI": "9 Cyle LARIN",
+"24 Promise DAVID": "17 Tajon BUCHANAN",
+"11 Liam MILLAR": "20 Ali AHMED",
+
+Marrocos x Haiti
+
+Marrocos
+"3 Noussair MAZRAOUI": "26 Anass SALAH EDDINE",
+"9 Soufiane RAHIMI": "11 Ismael SAIBARI",
+"15 Samir EL MOURABET": "24 Neil EL AYNAOUI",
+"8 Azzedine OUNAHI": "10 Brahim DIAZ",
+"16 Gessime YASSINE": "20 Ayoub El Kaabi",
+
+Haiti
+"2 Carlens ARCUS": "22 Jean-Kevin DUVERNE",
+"25 Dominique SIMON": "17 Danley JEAN JACQUES",
+"9 Duckens NAZON": "15 Ruben PROVIDENCE",
+"20 Frantzdy Pierrot": "16 Lenny JOSEPH",
+"11 Louicius DEEDSON": "18 Wilson Isidor",
+
+Escócia x Brasil
+
+Escócia
+"6 Kieran Tierney": "3 Andy ROBERTSON",
+"24 Anthony RALSTON": "22 Nathan PATTERSON",
+"25 Findlay CURTIS": "7 John McGinn",
+"11 Ryan Christie": "17 Ben GANNON-DOAK",
+"10 Che Adams": "20 Lawrence SHANKLAND",
+
+Brasil
+"6 ALEX SANDRO": "16 DOUGLAS SANTOS",
+"17 FABINHO": "5 CASEMIRO",
+"22 GABRIEL MARTINELLI": "20 LUCAS PAQUETA",
+"10 NEYMAR JR": "9 MATHEUS CUNHA",
+"19 ENDRICK": "26 RAYAN",
+
+Paraguai x Austrália
+
+Paraguai
+"13 Jose CANALE": "3 Omar ALDERETE",
+"11 MAURICIO": "26 Alexandro MAIDANA",
+"16 Damian BOBADILLA": "8 Diego GOMEZ",
+"6 Junior ALONSO": "23 Matias GALARZA",
+"18 Alex ARCE": "21 Gabriel AVALOS",
+
+Austrália
+"24 Paul OKON-ENGSTLER": "22 Jackson IRVINE",
+"26 Tete YENGI": "17 Nestory IRANKUNDA",
+"10 Ajdin HRUSTIC": "20 Cristian VOLPATO",
+
+Turquia x EUA
+
+Turquia
+"4 Caglar SOYUNCU": "2 Zeki CELIK",
+"22 Kaan AYHAN": "6 Orkun KOKCU",
+"26 Can UZUN": "11 Kenan YILDIZ",
+"17 Irfan Can KAHVECI": "21 Baris Alper YILMAZ",
+"18 Mert MULDUR": "24 Oguz AYDIN",
+
+EUA
+"16 Alex FREEMAN": "23 Joe SCALLY",
+"2 Sergino DEST": "7 Giovanni REYNA",
+"17 Malik TILLMAN": "8 Weston McKENNIE",
+"26 Alex ZENDEJAS": "11 Brenden AARONSON",
+"10 Christian PULISIC": "21 Timothy WEAH",
+
+Curaçau x Costa do Marfim
+
+Curaçau
+"19 Gervane KASTANEER": "3 Jurien GAARI",
+"2 Shurandy SAMBO": "20 Joshua BRENET",
+"13 Tyrese NOSLIN": "24 Deveron FONVILLE",
+"11 Jeremy Antonisse": "8 Livano COMENENCIA",
+"17 Brandley KUWAS": "9 Juergen LOCADIA",
+
+Costa do Marfim
+"4 Jean Michael SERI": "8 Franck KESSIE",
+"14 Oumar DIAKITE": "9 Ange-Yoan BONNY",
+"24 Bazoumana TOURE": "11 Yan DIOMANDE",
+"26 Christ Inao OULAI": "15 Amad DIALLO",
+"12 Elye WAHI": "19 Nicolas PEPE",
+
+Equador x Alemanha
+
+Equador
+"7 Pervis ESTUPINAN": "3 Piero HINCAPIE",
+"17 Angelo PRECIADO": "21 Alan FRANCO",
+"2 Felix TORRES": "9 John YEBOAH",
+"11 Kevin RODRIGUEZ": "13 Enner VALENCIA",
+"16 Jordy CAICEDO": "20 Nilson ANGULO",
+
+Alemanha
+"24 Malick THIAW": "6 Joshua KIMMICH",
+"16 Angelo Stiller": "5 Aleksandar PAVLOVIC",
+"13 Pascal GROSS": "17 Florian WIRTZ",
+"14 Maximilian BEIER": "23 Felix NMECHA",
+"26 Deniz UNDAV": "7 Kai HAVERTZ",
+
+Tunísia x Holanda
+
+Tunísia
+"12 Mortadha BEN OUANES": "21 Mohamed Amine BEN HMIDA",
+"19 Firas CHAOUAT": "11 Ismael GHARBI",
+"15 Mohamed HADJ MAHMOUD": "13 Rani Khedira",
+"7 Elias ACHOURI": "25 Anis SLIMANE",
+"26 Sebastian TOUNEKTI": "9 Hazem MASTOURI",
+
+Holanda
+"7 Justin KLUIVERT": "14 Tijjani REIJNDERS",
+"20 Teun KOOPMEINERS": "21 Frenkie DE JONG",
+"17 Noa LANG": "11 Cody GAKPO",
+"24 Crysencio SUMMERVILLE": "18 Donyell Malen",
+"10 Memphis DEPAY": "19 Brian BROBBEY",
+
+Japão x Suécia
+
+Japão
+"3 Shogo TANIGUCHI": "4 Kou ITAKURA",
+"16 Tsuyoshi Watanabe": "20 Ayumu SEKO",
+"14 Junya ITO": "10 Ritsu DOAN",
+"5 Yuto NAGATOMO": "13 Keito Nakamura",
+"19 Koki OGAWA": "18 Ayase UEDA",
+
+Suécia
+"15 Carl STARFELT": "3 Victor LINDELOF",
+"7 Lucas BERGVALL": "4 Isak HIEN",
+"10 Benjamin NYGREN": "5 Gabriel GUDMUNDSSON",
+"8 Daniel SVENSSON": "21 Alexander BERNHARDSSON",
+"13 Ken SEMA": "24 Elliot STROUD",

@@ -1,0 +1,13 @@
+# ambiente e caches
+venv/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+
+# documentação local do assistente (histórico de conversas e caminhos pessoais)
+CLAUDE.md
+
+# relatórios originais da FIFA (PDF) não são distribuídos
+*.pdf

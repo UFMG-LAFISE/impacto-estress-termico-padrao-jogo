@@ -1,0 +1,9 @@
+"dv","weather_spec","family","R2_marginal","R2_conditional","var_team_id","icc_team","n","n_teams","n_matches","dharma_uniformity_p","dharma_dispersion_p","dharma_outliers_p","dharma_quantile_p"
+"densidade_ponderada","WBGT","gaussian",0.3901,0.5098,0.0504,0.196,130,47,65,0.4642,0.77,1,0.0187
+"densidade_ponderada","Ta_RH_Rad","gaussian",0.3901,0.5016,0.0473,0.183,130,47,65,0.6111,0.676,1,0.7265
+"clustering_rede_ponderado","WBGT","gaussian",0.1175,0.2981,2e-04,0.205,130,47,65,0.9371,0.886,1,0.7481
+"clustering_rede_ponderado","Ta_RH_Rad","gaussian",0.1442,0.3248,2e-04,0.211,130,47,65,0.9904,0.786,1,0.7563
+"centralizacao_grau","WBGT","gamma",0.2471,0.3654,0.0294,0.157,130,47,65,0.8538,0.296,1,0.9119
+"centralizacao_grau","Ta_RH_Rad","gamma",0.2514,0.3822,0.0331,0.175,130,47,65,0.9708,0.278,1,0.9124
+"distancia_media_ponderada","WBGT","gamma",0.3085,0.5348,0.038,0.327,130,47,65,0.3397,0.12,0.2289,0.6007
+"distancia_media_ponderada","Ta_RH_Rad","gamma",0.3046,0.5296,0.038,0.324,130,47,65,0.4615,0.158,1,0.2774

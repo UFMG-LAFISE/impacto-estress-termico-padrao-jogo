@@ -1,0 +1,41 @@
+"dv","weather_spec","comparison","tests","LR","p_boundary"
+"densidade_ponderada","WBGT","team vs none","team_id (alone)",6.96340553517763,0.00415967675757138
+"densidade_ponderada","WBGT","match vs none","match_number (alone)",0,0.5
+"densidade_ponderada","WBGT","both vs team","match_number given team_id",0,0.5
+"densidade_ponderada","WBGT","both vs match","team_id given match_number",6.96340553456338,0.00415967675899939
+"densidade_ponderada","Ta_RH_Rad","team vs none","team_id (alone)",6.07490415872263,0.00685578700413124
+"densidade_ponderada","Ta_RH_Rad","match vs none","match_number (alone)",0,0.5
+"densidade_ponderada","Ta_RH_Rad","both vs team","match_number given team_id",0,0.5
+"densidade_ponderada","Ta_RH_Rad","both vs match","team_id given match_number",6.07490417193003,0.00685578695287121
+"clustering_rede_ponderado","WBGT","team vs none","team_id (alone)",3.4782604532665,0.0310900359642559
+"clustering_rede_ponderado","WBGT","match vs none","match_number (alone)",0.088925147859527,0.382774040201742
+"clustering_rede_ponderado","WBGT","both vs team","match_number given team_id",0,0.5
+"clustering_rede_ponderado","WBGT","both vs match","team_id given match_number",3.38933526467616,0.032809699503116
+"clustering_rede_ponderado","Ta_RH_Rad","team vs none","team_id (alone)",3.26645418194016,0.035355152141716
+"clustering_rede_ponderado","Ta_RH_Rad","match vs none","match_number (alone)",0.0488017428924081,0.412580801822293
+"clustering_rede_ponderado","Ta_RH_Rad","both vs team","match_number given team_id",0,0.5
+"clustering_rede_ponderado","Ta_RH_Rad","both vs match","team_id given match_number",3.21765238134049,0.0364240185118984
+"centralizacao_grau_saida","WBGT","team vs none","team_id (alone)",5.72066214510431,0.00838320317084055
+"centralizacao_grau_saida","WBGT","match vs none","match_number (alone)",0,0.5
+"centralizacao_grau_saida","WBGT","both vs team","match_number given team_id",0,0.5
+"centralizacao_grau_saida","WBGT","both vs match","team_id given match_number",5.72066215834235,0.00838320310763513
+"centralizacao_grau_saida","Ta_RH_Rad","team vs none","team_id (alone)",6.5479597264241,0.00525022506949538
+"centralizacao_grau_saida","Ta_RH_Rad","match vs none","match_number (alone)",0,0.5
+"centralizacao_grau_saida","Ta_RH_Rad","both vs team","match_number given team_id",0,0.5
+"centralizacao_grau_saida","Ta_RH_Rad","both vs match","team_id given match_number",6.54795972857073,0.00525022506316086
+"centralizacao_grau_entrada","WBGT","team vs none","team_id (alone)",3.88242909537507,0.0243969566390301
+"centralizacao_grau_entrada","WBGT","match vs none","match_number (alone)",0,0.5
+"centralizacao_grau_entrada","WBGT","both vs team","match_number given team_id",0,0.5
+"centralizacao_grau_entrada","WBGT","both vs match","team_id given match_number",3.88242908518106,0.0243969567871505
+"centralizacao_grau_entrada","Ta_RH_Rad","team vs none","team_id (alone)",4.71172162854236,0.0149788179274598
+"centralizacao_grau_entrada","Ta_RH_Rad","match vs none","match_number (alone)",0,0.5
+"centralizacao_grau_entrada","Ta_RH_Rad","both vs team","match_number given team_id",0,0.5
+"centralizacao_grau_entrada","Ta_RH_Rad","both vs match","team_id given match_number",4.71172164717996,0.014978817765076
+"distancia_media_ponderada","WBGT","team vs none","team_id (alone)",7.40737411772974,0.00324785322694186
+"distancia_media_ponderada","WBGT","match vs none","match_number (alone)",0,0.5
+"distancia_media_ponderada","WBGT","both vs team","match_number given team_id",0,0.5
+"distancia_media_ponderada","WBGT","both vs match","team_id given match_number",7.40737412118568,0.00324785322070275
+"distancia_media_ponderada","Ta_RH_Rad","team vs none","team_id (alone)",5.82215264683505,0.00791278254819277
+"distancia_media_ponderada","Ta_RH_Rad","match vs none","match_number (alone)",0,0.5
+"distancia_media_ponderada","Ta_RH_Rad","both vs team","match_number given team_id",0,0.5
+"distancia_media_ponderada","Ta_RH_Rad","both vs match","team_id given match_number",5.8221526450356,0.0079127825562877

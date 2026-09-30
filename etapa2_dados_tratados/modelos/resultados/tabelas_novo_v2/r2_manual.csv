@@ -1,0 +1,5 @@
+"dv","weather_spec","R2_marginal","R2_conditional","note"
+"densidade_ponderada","WBGT",0.37329767314045,0.516205043725995,"manual: var_resid = mean(sigma_i^2), sigma by tournament_stage"
+"distancia_media_ponderada","WBGT",0.292648762751897,0.472843656689382,"manual, log scale: var_resid = sigma^2*df/(df-2), df = 5.63"
+"densidade_ponderada","Ta_RH_Rad",0.369290439769701,0.511221247017379,"manual: var_resid = mean(sigma_i^2), sigma by tournament_stage"
+"distancia_media_ponderada","Ta_RH_Rad",0.291223859399505,0.461437971286098,"manual, log scale: var_resid = sigma^2*df/(df-2), df = 5.57"

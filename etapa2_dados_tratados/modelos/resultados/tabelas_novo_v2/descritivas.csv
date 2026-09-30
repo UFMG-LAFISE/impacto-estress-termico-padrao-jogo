@@ -1,0 +1,12 @@
+"var","source_column","n","mean","sd","median","min","max"
+"densidade_ponderada","densidade_ponderada",130,3.66153846153846,1.33409252880318,3.75455,0.6909,7.2455
+"clustering_rede_ponderado","clustering_rede_ponderado",130,0.170270769230769,0.0402887839935976,0.1724,0.0835,0.2824
+"centralizacao_grau_saida","centralizacao_grau_saida",130,3.64974230769231,1.83230287799897,3.38335,0.7222,8.9333
+"centralizacao_grau_entrada","centralizacao_grau_entrada",130,2.97658076923077,1.57991349253397,2.7333,0.6,7.3444
+"distancia_media_ponderada","distancia_media_ponderada",130,0.634889230769231,0.307744092128044,0.5641,0.2929,2.572
+"total_passes_na_rede","total_passes_na_rede",130,402.769230769231,146.749828702489,413,76,797
+"wbgt","wbgt_c_adj",130,24.1653846153846,3.96772798397272,24.48,15.31,31.33
+"temp","air_temp_c_adj",130,23.9523076923077,4.99399756583213,24.71,11.58,36.59
+"rh","rel_humidity_pct_adj",130,64.8255384615385,17.877170321392,66.77,28.7,94.8
+"rad","solar_radiation_adj",130,204.272307692308,265.203094623223,81.3,0,974.6
+"altitude","altitude_m",130,350.215384615385,679.467700741269,10,2,2240
